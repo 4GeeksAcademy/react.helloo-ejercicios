@@ -1,4 +1,5 @@
 import React from "react";
+import Card from "./card"
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
@@ -24,3 +25,4 @@ const Home = () => {
 };
 
 export default Home;
+
